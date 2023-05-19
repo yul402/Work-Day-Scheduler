@@ -1,6 +1,6 @@
 # Work-Day-Scheduler
 This repository contains a "work day sheduler" web application to track tasks recorded for each working hour.
-- link for quiz: quiz-for-java-script-8p7y8kpf6-yul402.vercel.app
+- link for quiz: work-day-scheduler-ehhxsrhsd-yul402.vercel.app
 
 ## Uage:
 - Current date is displayed at the header section of the page
